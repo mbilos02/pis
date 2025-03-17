@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Authentication;
 
 namespace ConsoleApp
 {
@@ -8,6 +9,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novi issue dodan :D");
         }
     }
 }
